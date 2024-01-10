@@ -1,0 +1,1 @@
+﻿//Generic - yak teoriyae hast ki tamomi tipxoro megirad va uro ba vositai <T> muayyan mekunem

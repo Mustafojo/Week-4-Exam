@@ -1,0 +1,1 @@
+﻿//Static class - classe ast ki az u inherit kada nameshava va u ham az digar classo inherit kada nametona va objectsha soxta nameshava.
